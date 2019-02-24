@@ -1,11 +1,10 @@
 # javaee-example-app
 A simple application of JavaEE with JPA, CDI and JSF
 
-**This is just my Learning** not production leady quality.
+**This is just my Learning** not production ready quality.
 
 
 ### Build
-
 ```
 mvn clean package
 ```
